@@ -1,0 +1,17 @@
+/* Empty. Add your own CSS if you like */
+
+.font-boogaloo {
+    font-family: Boogaloo;
+}
+
+.alignleft {
+    float: left;
+}
+.alignright {
+    float: right;
+}
+
+.large-size {
+    font-size: 18px;
+}
+
